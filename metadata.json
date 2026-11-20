@@ -1,0 +1,6 @@
+{
+  "name": "مسار Masar",
+  "description": "تطبيق إدارة وتتبع عناوين التوصيل وبطاقات الطلبات حسب الحالة والملاحظات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

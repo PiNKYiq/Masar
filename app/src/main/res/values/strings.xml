@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">مسار Masar</string>
+    <string name="accessibility_service_description">تمكين العدسة العائمة من قراءة النصوص العربية على الشاشة مثل (السعر، السعر الكلي، المبلغ) ورمز العملة لسحب السعر تلقائياً إلى حقل السعر.</string>
+    <string name="refresh_and_save_button_desc">تحديث التطبيق وحفظ آخر التغييرات</string>
+    <string name="app_updates_title">تحديث التطبيق</string>
+    <string name="app_updates_subtitle">تحقق من توفر إصدارات وإصلاحات جديدة للتطبيق وافتح رابط التحديث الرسمي مباشرة.</string>
+    <string name="app_updates_source_config_desc">إعداد رابط مصدر التحديثات</string>
+    <string name="btn_check_app_updates">التحقق من وجود تحديثات</string>
+</resources>
+
